@@ -17,5 +17,18 @@ footer {
 }
 
 .pushaway {
-  margin-bottom: 1.5em;
+  margin-bottom: 2.1em;
+}
+
+.pushaways {
+  margin-bottom: 2.9em;
+}
+
+hr {
+  height: 1px;
+}
+
+.totheright {
+  padding-right: 3.2rem;
+  padding-left: .7rem;
 }
